@@ -5,7 +5,7 @@
 
 作业链接：[https://pkuuuu.github.io/Homework-2/搜索引擎.html](https://pkuuuu.github.io/Homework-2/搜索引擎.html)
 
-## 作业二 人物共现关系图
+## 作业二 词频共现关系图
 作业描述：
 
 作业链接：
